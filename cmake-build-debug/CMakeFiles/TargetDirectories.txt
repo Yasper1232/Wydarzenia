@@ -1,0 +1,3 @@
+C:/Users/PC-R5-3600/CLionProjects/Wydarzenia/cmake-build-debug/CMakeFiles/Wydarzenia.dir
+C:/Users/PC-R5-3600/CLionProjects/Wydarzenia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC-R5-3600/CLionProjects/Wydarzenia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
