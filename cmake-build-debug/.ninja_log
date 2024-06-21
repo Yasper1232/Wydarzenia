@@ -1,0 +1,9 @@
+# ninja log v5
+1	483	7406959628701295	CMakeFiles/Wydarzenia.dir/main.cpp.obj	639a8601d3c2c67e
+3	413	7406959853940162	CMakeFiles/Wydarzenia.dir/event.cpp.obj	2c075f5f0031b66
+413	953	7406959859792154	Wydarzenia.exe	edec2f9ea9124fa5
+7	364	7406961548514808	CMakeFiles/Wydarzenia.dir/event.cpp.obj	2c075f5f0031b66
+3	369	7406961548554816	CMakeFiles/Wydarzenia.dir/main.cpp.obj	639a8601d3c2c67e
+369	491	7406961549765091	Wydarzenia.exe	edec2f9ea9124fa5
+4	353	7406962118067838	CMakeFiles/Wydarzenia.dir/main.cpp.obj	639a8601d3c2c67e
+353	458	7406962119098073	Wydarzenia.exe	edec2f9ea9124fa5
